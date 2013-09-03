@@ -1,3 +1,5 @@
+/* This is a simple program for me ot learn about GIT & GITHUB. */
+
 #include <stdio.h>
 
 int main(int argc, char *argv[])
